@@ -1,0 +1,356 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CountDistinctElements",
+            "request": "launch",
+            "mainClass": "arrays.CountDistinctElements",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "SymmetricPairs",
+            "request": "launch",
+            "mainClass": "arrays.SymmetricPairs",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "MinimumScalarProduct",
+            "request": "launch",
+            "mainClass": "arrays.MinimumScalarProduct",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "ReplaceWithRank",
+            "request": "launch",
+            "mainClass": "arrays.ReplaceWithRank",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "UnionIntersection",
+            "request": "launch",
+            "mainClass": "arrays.UnionIntersection",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "DisjointArrays",
+            "request": "launch",
+            "mainClass": "arrays.DisjointArrays",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "SubsetCheck",
+            "request": "launch",
+            "mainClass": "arrays.SubsetCheck",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "HalfSort",
+            "request": "launch",
+            "mainClass": "arrays.HalfSort",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "arrays.SelectionSort",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "KadaneAlgorithm",
+            "request": "launch",
+            "mainClass": "arrays.KadaneAlgorithm",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "MaxProductSubarray",
+            "request": "launch",
+            "mainClass": "arrays.MaxProductSubarray",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "RotateArrayLeft",
+            "request": "launch",
+            "mainClass": "arrays.RotateArrayLeft",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "EquilibriumIndex",
+            "request": "launch",
+            "mainClass": "arrays.EquilibriumIndex",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "CheckSortedArray",
+            "request": "launch",
+            "mainClass": "arrays.CheckSortedArray",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "RepeatingElements",
+            "request": "launch",
+            "mainClass": "arrays.RepeatingElements",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "NonRepeatingElements",
+            "request": "launch",
+            "mainClass": "arrays.NonRepeatingElements",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Removeduplicates",
+            "request": "launch",
+            "mainClass": "arrays.Removeduplicates",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "CountEvenOdd",
+            "request": "launch",
+            "mainClass": "arrays.CountEvenOdd",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyofArray",
+            "request": "launch",
+            "mainClass": "arrays.FrequencyofArray",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "arrays.ReverseArray",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "SumOfArray",
+            "request": "launch",
+            "mainClass": "arrays.SumOfArray",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "SecondLargest",
+            "request": "launch",
+            "mainClass": "arrays.SecondLargest",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Mininarray",
+            "request": "launch",
+            "mainClass": "arrays.Mininarray",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Largestinarray",
+            "request": "launch",
+            "mainClass": "arrays.Largestinarray",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Largestinarray",
+            "request": "launch",
+            "mainClass": "recursion.Largestinarray",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "recursion.GCD",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Revnum",
+            "request": "launch",
+            "mainClass": "recursion.Revnum",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "recursion.Fibonacci",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "recursion.Factorial",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "CountDigits",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.CountDigits",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "PerfNo",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.PerfNo",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "LCM",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.LCM",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "HCF",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.HCF",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Power",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.Power",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.Factorial",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "NthFibo",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.NthFibo",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Fibo2n",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.Fibo2n",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Amstrong",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.Amstrong",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Palinum",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.Palinum",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Revnum",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.Revnum",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Sumdigits",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.Sumdigits",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "FirstNsum",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.FirstNsum",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Pnumsinarange",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.Pnumsinarange",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.Prime",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Leapyr",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.Leapyr",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Gtstofthreenms",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.Gtstofthreenms",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Gtsttwonums",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.Gtsttwonums",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "oddeven",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.oddeven",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "PNnum",
+            "request": "launch",
+            "mainClass": "numbersnmathlogic.PNnum",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}

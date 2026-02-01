@@ -1,0 +1,13 @@
+package recursion;
+
+public class Largestinarray {
+    public static void main(String[] args) {
+        int[] arr = {3, 5, 2, 9, 1};
+        System.out.println(max(arr, 0));
+
+    }
+    static int max(int[] arr, int i) {
+        if(i==arr.length-1)return arr[i];
+        return Math.max(arr[i],max(arr, i + 1));
+    }
+}
