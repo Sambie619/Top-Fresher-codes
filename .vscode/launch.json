@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindDuplicate",
+            "request": "launch",
+            "mainClass": "arraysadvanced.FindDuplicate",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Sortarrs012",
+            "request": "launch",
+            "mainClass": "arraysadvanced.Sortarrs012",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
             "name": "CountDistinctElements",
             "request": "launch",
             "mainClass": "arrays.CountDistinctElements",
