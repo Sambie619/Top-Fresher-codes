@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CharFrequency",
+            "request": "launch",
+            "mainClass": "strings.CharFrequency",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
             "name": "FindDuplicate",
             "request": "launch",
             "mainClass": "arraysadvanced.FindDuplicate",
