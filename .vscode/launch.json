@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GenerateBalancedParanthesis",
+            "request": "launch",
+            "mainClass": "recursion.GenerateBalancedParanthesis",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "PrintAllPermuofString",
+            "request": "launch",
+            "mainClass": "recursion.PrintAllPermuofString",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "checkPrime",
+            "request": "launch",
+            "mainClass": "recursion.checkPrime",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "LenofString",
+            "request": "launch",
+            "mainClass": "recursion.LenofString",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "PowerofNum",
+            "request": "launch",
+            "mainClass": "recursion.PowerofNum",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "PrintMatinSortedOrder",
+            "request": "launch",
+            "mainClass": "matrix.PrintMatinSortedOrder",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "Rowwithmax1s",
+            "request": "launch",
+            "mainClass": "matrix.Rowwithmax1s",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "RotMatBy90",
+            "request": "launch",
+            "mainClass": "matrix.RotMatBy90",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "searchEleinMat",
+            "request": "launch",
+            "mainClass": "matrix.searchEleinMat",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
+            "name": "SpiraltravMatrix",
+            "request": "launch",
+            "mainClass": "matrix.SpiraltravMatrix",
+            "projectName": "t100_3d54f6d1"
+        },
+        {
+            "type": "java",
             "name": "CharFrequency",
             "request": "launch",
             "mainClass": "strings.CharFrequency",
