@@ -21,4 +21,12 @@ public class CustomStringLength {
         return len;
     }
 }
+/*  public static int customLength(String s) {
+    int len = 0;
+    for (char c : s.toCharArray()) {
+        len++;
+    }
+    return len;
+}
+*/
 
