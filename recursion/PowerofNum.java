@@ -22,4 +22,18 @@ public class PowerofNum {
         System.out.println(power(5, 0));  // 1
     }
 }
+/*
+power(2,10)
+half = power(2,5)
 
+power(2,5)
+half = power(2,2)
+
+power(2,2)
+half = power(2,1)
+
+power(2,1)
+half = power(2,0)
+
+power(2,0) = 1
+*/
