@@ -21,4 +21,20 @@ max(arr,2)
 max(arr,3)
    |
 max(arr,4)   <-- base case
+📞 Call Expansion (Going Down)
+max(arr,0)
+= max(3, max(arr,1))
+
+max(arr,1)
+= max(5, max(arr,2))
+
+max(arr,2)
+= max(2, max(arr,3))
+
+max(arr,3)
+= max(9, max(arr,4))
+
+max(arr,4)
+= 1   <-- base case
+
 */
