@@ -9,3 +9,15 @@ public class GCD {
         return hcf(b,a%b);
     }
 }
+/*🌿 Recursion Chain Diagram
+hcf(10,28)
+   ↓
+hcf(28,10)
+   ↓
+hcf(10,8)
+   ↓
+hcf(8,2)
+   ↓
+hcf(2,0)  -> returns 2    */
+
+    
