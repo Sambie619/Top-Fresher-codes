@@ -36,5 +36,7 @@ max(arr,3)
 
 max(arr,4)
 = 1   <-- base case
-
+⏱️ Complexity
+Time: O(n)
+Space: O(n) (recursion stack)
 */
