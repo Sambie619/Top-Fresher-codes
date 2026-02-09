@@ -11,3 +11,14 @@ public class Largestinarray {
         return Math.max(arr[i],max(arr, i + 1));
     }
 }
+/*Recursion Tree
+max(arr,0)
+   |
+max(arr,1)
+   |
+max(arr,2)
+   |
+max(arr,3)
+   |
+max(arr,4)   <-- base case
+*/
