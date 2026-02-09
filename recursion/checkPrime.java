@@ -29,3 +29,27 @@ public class checkPrime {
         System.out.println(isPrime(1));  // false
     }
 }
+/* ✅ Trace for isPrime(29)
+Start:
+isPrimeHelper(29, 2)
+Check:
+2*2 = 4 <= 29
+29 % 2 != 0 → continue
+Next:
+isPrimeHelper(29, 3)
+3*3 = 9 <= 29
+29 % 3 != 0 → continue
+Next:
+isPrimeHelper(29, 4)
+4*4 = 16 <= 29
+29 % 4 != 0 → continue
+Next:
+isPrimeHelper(29, 5)
+5*5 = 25 <= 29
+29 % 5 != 0 → continue
+Next:
+isPrimeHelper(29, 6)
+6*6 = 36 > 29 ✅ stop!
+Return true.
+So:
+isPrime(29) = true*/
