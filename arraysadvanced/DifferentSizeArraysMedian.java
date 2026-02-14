@@ -61,4 +61,9 @@ public class DifferentSizeArraysMedian {
         return 0.0;  // Should not reach here
     }
 }
+/*a:  [ 1   2 | 7   8 ]
+b:  [ 3   4   5 | 6   9 ]
 
+LEFT SIDE = [1, 2, 3, 4, 5]   (5 elements)
+RIGHT SIDE = [6, 7, 8, 9]     (4 elements)
+*/
