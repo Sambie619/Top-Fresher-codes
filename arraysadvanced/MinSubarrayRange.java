@@ -39,4 +39,5 @@ public class MinSubarrayRange {
         return minDiff;
     }
 }
-
+/*From all possible groups of m elements, find the group where the difference between the largest and smallest 
+number is minimum.*/
