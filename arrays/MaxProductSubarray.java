@@ -26,8 +26,8 @@ public class MaxProductSubarray {
                 minProd = temp;
             }
             // Update max and min product at current index
-            maxProd=Math.max(maxProd,maxProd*arr[i]);
-            minProd=Math.min(minProd,minProd*arr[i]);
+            maxProd=Math.max(arr[i],maxProd*arr[i]);
+            minProd=Math.min(arr[i],minProd*arr[i]);
             // Update result
             result = Math.max(result, maxProd);
         }
